@@ -8,7 +8,6 @@ const auth = getAuth(appFirebase)
 //importar nuestros componentes
 import Login from "../src/components/Login";
 import Home from "../src/components/Home";
-import Sunset from "../src/components/Sunset";
 
 
 import './App.css'
